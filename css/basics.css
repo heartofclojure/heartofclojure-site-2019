@@ -1,0 +1,21 @@
+header, footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    height: 28rem;
+    background-image: url('/img/hoc-cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+header h1 {
+    padding-top: 72px;
+}
+
+@media screen and (min-width: 30em) {
+    .main { padding: 4rem 0; }
+}

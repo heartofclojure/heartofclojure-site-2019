@@ -1,0 +1,23 @@
+#mc_embed_signup form { padding: 0; }
+#mc_embed_signup form input { font-size: 1rem; }
+#mc_embed_signup form .asterisk { color: #e25f7d; }
+
+#mc_embed_signup .button {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    height: 3rem;
+    border: 3px solid black;
+    border-radius: 0;
+    background-color: white;
+}
+
+#mc_embed_signup .button:hover {
+    background: linear-gradient(to top, rgba(226,95,125,0.75) 0%, rgba(226,95,125,0) 100%);
+}
+
+#mc_embed_signup .mc-field-group input {
+    padding: 1rem 0;
+    border-radius: 0;
+    border: 3px solid #e25f7d;
+}
