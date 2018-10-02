@@ -1,19 +1,42 @@
-header, footer {
+footer {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-header {
-    height: 28rem;
+.header-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
     background-image: url('/img/hoc-cover.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
 }
 
+.header-image:before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom right,#002f4b,#46722b);
+    opacity: .6;
+}
+
+header {
+    text-align: center;
+    position: relative;
+    padding: 14rem 0 10rem;
+    color: white;
+}
+
 header h1 {
-    padding-top: 72px;
+    position: relative;
+    z-index: 1;
 }
 
 @media screen and (min-width: 30em) {
