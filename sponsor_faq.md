@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sponsorship FAQ
-permalink: /sponsor_faq
+permalink: /sponsor-faq
 ---
 
 ## Sponsorship FAQ
