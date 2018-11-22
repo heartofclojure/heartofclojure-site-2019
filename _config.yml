@@ -1,0 +1,6 @@
+name: Heart of Clojure
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
