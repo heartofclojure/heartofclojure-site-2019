@@ -10,8 +10,21 @@
 .green-tint-40 { color: #6ba845; }
 .green-tint-20 { color: #99db70; }
 
-.pink { color: #ae3951; }
 .pink-tint-80 { color: #c0415b; }
 .pink-tint-60 { color: #e25f7d; }
 .pink-tint-40 { color: #cd4e6a; }
 .pink-tint-20 { color: #e7879d; }
+
+/* Pink base  */
+.pink { color: #ae3951; }
+.bg-pink { background-color: #ae3951; }
+.b--pink { border-color: #ae3951; }
+.hover-pink:hover, .hover-pink:focus { color: #ae3951; }
+.hover-bg-pink:hover, .hover-bg-pink:focus { background-color: #ae3951; }
+
+/* Pink tint 60 */
+.pink-t60 { color: #e25f7d; }
+.bg-pink-t60 { background-color: #e25f7d; }
+.b--pink-t60 { border-color: #e25f7d; }
+.hover-pink-t60:hover, .hover-pink-t60:focus { color: #e25f7d; }
+.hover-bg-pink-t60:hover, .hover-bg-pink-t60:focus { background-color: #e25f7d; }
