@@ -4,6 +4,8 @@ title: Location
 permalink: /location
 ---
 
+<div class="mw7 center">
+
 ## Hal5, Leuven, Belgium, Europe
 
 Heart of Clojure is a conference by and for the European Clojure Community, and so we chose a location that's easily accessible from across Europe.
@@ -17,3 +19,5 @@ The historic center is largely car-free, and easily navigated on foot, making it
 ### The venue
 
 [Hal5](http://hal5.be) consists of former warehouses used by the Belgian Railways. Today it is a buzzing neighbourhood hub with a food court, urban gym, bakery, and coffee roastery.
+
+</div>
