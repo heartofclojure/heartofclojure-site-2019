@@ -2,11 +2,6 @@ h1, h2, h3, h4, h5 {
     font-family: 'Halant', Helvetica, Arial, Sans-Serif;
 }
 
-h1 { font-size: 4rem; }
-h2 { font-size: 2rem; }
-
-p { margin-bottom: 1rem; }
-
 .markdown a, .hoc-link {
     text-decoration: none;
     color: inherit;
