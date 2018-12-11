@@ -5,18 +5,11 @@
   <body>
     {% include nav.html %}
 
-    <div class="grid">
-        <header>
-            <h1>Heart of Clojure</h1>
-            <div class="header-image"></div>
-        </header>
-
-        <div class="main">
-          <div class="markdown lh-copy f4">
-            {{ content }}
-          </div>
-        </div>
+    <div class="mt5">
+      {{ content }}
     </div>
+
+    {% include footer.html %}
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

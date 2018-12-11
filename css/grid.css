@@ -22,6 +22,10 @@ header {
     grid-gap: 1rem 1rem;
 }
 
+@media screen and (min-width: 30em) {
+    .main { padding: 4rem 0; }
+}
+
 footer {
     grid-area: footer;
 }

@@ -1,0 +1,11 @@
+/* Tachyons inspired utility classes */
+
+.hoc-icon-list li:before {
+  content: " ";
+  display: block;
+  float: left;
+  background: url('/img/hoc-logo-green.svg');
+  width: 1.5em;
+  height: 1.5em;
+  margin-left: -2.25em;
+}

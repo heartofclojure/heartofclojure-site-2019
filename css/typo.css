@@ -1,7 +1,5 @@
 h1, h2, h3, h4, h5 {
     font-family: 'Halant', Helvetica, Arial, Sans-Serif;
-    line-height: 2rem;
-    margin-bottom: 1rem;
 }
 
 h1 { font-size: 4rem; }
@@ -9,14 +7,14 @@ h2 { font-size: 2rem; }
 
 p { margin-bottom: 1rem; }
 
-a {
+.markdown a, .hoc-link {
     text-decoration: none;
     color: inherit;
     border-bottom: .1rem solid black;
     box-shadow: none;
 }
 
-a:hover {
+.markdown a:hover, .hoc-link:hover {
     font-style: italic;
     text-decoration: none;
     color: inherit;
@@ -34,7 +32,7 @@ nav a:hover {
     box-shadow: none;
 }
 
-ul, li {
+.markdown ul, .markdown li {
     list-style: none;
     text-decoration: none;
 }
