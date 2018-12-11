@@ -4,7 +4,7 @@
     grid-gap: 2rem 2rem;
     grid-template-areas:
       "header header header"
-      ". main ."
+      "main main main"
       "footer footer footer";
 }
 
@@ -20,10 +20,6 @@ header {
     grid-area: main;
     display: grid;
     grid-gap: 1rem 1rem;
-}
-
-@media screen and (min-width: 30em) {
-    .main { padding: 4rem 0; }
 }
 
 footer {
