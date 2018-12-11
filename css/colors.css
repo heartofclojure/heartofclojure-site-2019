@@ -28,3 +28,9 @@
 .b--pink-t60 { border-color: #e25f7d; }
 .hover-pink-t60:hover, .hover-pink-t60:focus { color: #e25f7d; }
 .hover-bg-pink-t60:hover, .hover-bg-pink-t60:focus { background-color: #e25f7d; }
+
+.hoc-black { color: #2c3437; }
+.bg-hoc-black { background-color: #2c3437; }
+.b--hoc-black { border-color: #2c3437; }
+.hover-hoc-black:hover, .hover-hoc-black:focus { color: #2c3437; }
+.hover-bg-hoc-black:hover, .hover-bg-hoc-black:focus { background-color: #2c3437; }
