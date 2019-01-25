@@ -37,3 +37,30 @@ If you would like to be associated with a specific part of the conference, or ex
 ### Will I get an invoice for the sponsorship amount?
 
 We will invoice sponsors starting early 2019. Invoices are in Euro and sent from Germany, so if you are a German company keep in mind that VAT will be added on top of the sponsorship amount.
+
+### Can I handout swag or swag bags?
+
+Handing out promotional items a.k.a. "swag" is a common marketing practice at
+conferences. While this can be a fun way for sponsors to connect to attendees,
+it als leads to a lot of waste. Cheaply produced goods get handed out to people
+indiscriminately, and are often on their way to a landfill before the conference
+is over.
+
+As a conference we want to take responsibility and think about the
+sustainability of our actions, we ask our sponsors to do the same.
+
+In practice this means:
+
+- No "swag bags" that get handed out to all attendees, swag is instead presented
+  on tables, for the taking for those who want it
+- Sponsors with their own stand can present their swag there, for other sponsors
+  we'll have one or more "swag tables" where we display your stuff.
+- Swag should be either recyclable, consumable, or durable. e.g. recyclable:
+  paper, cardboard, glass. Consumable: chocolate, coffee, stroopwafels. Durable:
+  (quality) water bottles, USB sticks. Avoid plastic trinkets. Ask yourself:
+  will people still be using this five years from now.
+- For textiles: consider finding a supplier that cares about the ethics and
+  sustainability of their wares. If you provide t-shirts then please also
+  provide "fitted" sizes ([more info](http://geekfeminism.wikia.com/wiki/T-shirts))
+- As an alternative consider Digital Swag! We are happy to email people your
+  discount codes, ebooks, or other promotional offers after the conference.
