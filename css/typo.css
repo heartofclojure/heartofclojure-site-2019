@@ -27,10 +27,12 @@ nav a:hover {
     box-shadow: none;
 }
 
+/*
 .markdown ul, .markdown li {
     list-style: none;
     text-decoration: none;
 }
+*/
 
 .hoc {
     font-family: 'Halant', Helvetica, Arial, Sans-Serif;
