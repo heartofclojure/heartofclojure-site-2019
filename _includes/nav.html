@@ -5,8 +5,9 @@
         <img src="/img/hoc-logo-white.svg" />
         <span>Heart of Clojure</span>
       </a>
-      <a class="nav-item db link white" href="/location">Location</a>
-      <a class="nav-item db link white" href="/call-for-speakers">Call for Speakers</a>
+      {% for nav in site.data.nav %}
+        <a class="nav-item db link white" href="{{ nav.path }}">{{ nav.title }}</a>
+      {% endfor %}
     </div>
   </div>
 
@@ -18,8 +19,9 @@
       </a>
     </div>
     <div class="nav-menu-options tc">
-      <a class="link db pv3 black" href="/location">Location</a>
-      <a class="link db pv3 black" href="/call-for-speakers">Call for Speakers</a>
+      {% for nav in site.data.nav %}
+        <a class="link db pv3 black" href="{{ nav.path }}">{{ nav.title }}</a>
+      {% endfor %}
     </div>
   </div>
 </nav>

@@ -1,0 +1,14 @@
+- title: Location
+  path: /location
+# - title: Program
+#   path: /program
+- title: Call for Speakers
+  path: /call-for-speakers
+- title: Be a Sponsor
+  path: /sponsor-faq
+# - title: Tickets
+#   path: /tickets
+# - title: Code of Conduct
+#   path: /code-of-conduct
+# - title: Accessibility
+#   path: /accessibility
