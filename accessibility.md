@@ -4,6 +4,8 @@ title:  "Heart of Clojure - Accessibility"
 permalink: /accessibility
 ---
 
+<div class="mw7 center">
+
 ## Accessibility Statement
 
 Heart of Clojure is an inclusive conference and as such strives to be accessible to everyone. This includes:
@@ -24,3 +26,5 @@ a mail to [orga@heartofclojure.eu](mailto:orga@heartofclojure.eu).
 We will happily reserve you a ticket if it’s not immediately clear whether
 necessary assistance is provided or you have additional planning to do for your
 trip to Heart of Clojure.
+
+</div>
