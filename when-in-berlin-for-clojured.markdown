@@ -38,12 +38,12 @@ Every Thursday there's [Street Food Thursday](https://markthalleneun.de/veransta
 
 [**Berlin Unterwelten**](https://www.berliner-unterwelten.de/en.html) is a non profit organising tours through underground structures. I haven't been but everyone who has been told me it's amazing. Guided tours only & you might need to book in advance.
 
-<h2 class="mt5 mb3">Food</h2>
-Notably absent from this list so far are any restaurants. There's simply too much variety to pick out a handful of places. [Foursquare](https://foursquare.com) is working pretty well for Berlin if you have it. If you're looking for specific recommendations feel free to [ask on Twitter](https://twitter.com/martinklepsch).
+<!-- <h2 class="mt5 mb3">Food</h2> -->
+<!-- Notably absent from this list so far are any restaurants. There's simply too much variety to pick out a handful of places. [Foursquare](https://foursquare.com) is working pretty well for Berlin if you have it. If you're looking for specific recommendations feel free to [ask on Twitter](https://twitter.com/martinklepsch). -->
 
-<h2 class="mt5 mb3">Recover</h2>
+<!-- <h2 class="mt5 mb3">Recover</h2> -->
 
-Finally, if the weather isn't too nice or you're just looking for a a break a way from city life, [**Liquidrom**](https://liquidrom-berlin.de/en/) or [**Vabali**](https://www.vabali.de) would be decent options.
+<!-- Finally, if the weather isn't too nice or you're just looking for a a break a way from city life, [**Liquidrom**](https://liquidrom-berlin.de/en/) or [**Vabali**](https://www.vabali.de) would be decent options. Both places have a variety of saunas and pools and can be easily reached via public transport. -->
 
 <h2 class="mt5 mb3">Have a great time!</h2>
 
