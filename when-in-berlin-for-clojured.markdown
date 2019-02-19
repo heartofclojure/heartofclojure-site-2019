@@ -34,7 +34,7 @@ Every Thursday there's [Street Food Thursday](https://markthalleneun.de/veransta
 
 [**nineties.berlin**](https://nineties.berlin/en) is a bit more on the entertainment side of exhibitions and tries to give you an idea about life in Berlin shortly after the fall of the wall.
 
-[**Deutsches Technik Museum**](https://sdtb.de/museum-of-technology/623/) hosts an array of exhibitions technology focused exhibitions. Perhaps of particular interest they also display a replica of the [original Z1](https://sdtb.de/museum-of-technology/exhibitions/1256/), one of the first computers ever.
+[**Deutsches Technik Museum**](https://sdtb.de/museum-of-technology/623/) hosts an array of technology focused exhibitions. Perhaps of particular interest they also display a replica of the [original Z1](https://sdtb.de/museum-of-technology/exhibitions/1256/), one of the first computers ever.
 
 [**Berlin Unterwelten**](https://www.berliner-unterwelten.de/en.html) is a non profit organising tours through underground structures. I haven't been but everyone who has been told me it's amazing. Guided tours only & you might need to book in advance.
 
