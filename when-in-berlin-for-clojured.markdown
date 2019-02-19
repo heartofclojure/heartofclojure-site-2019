@@ -3,7 +3,7 @@ layout: default
 title: Things To Do When in Berlin for ClojureD
 banner_text: Things To Do When in Berlin for ClojureD
 og_description: With ClojureD just around the corner we have compiled a small list of things you might want to check out while in town.
-og_image: /img/tempelhof.jpg
+og_image: https://heartofclojure.eu/img/tempelhof.jpg
 permalink: /when-in-berlin-for-clojured
 ---
 <div class="mw7 center">
