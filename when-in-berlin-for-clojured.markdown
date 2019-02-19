@@ -49,7 +49,7 @@ Every Thursday there's [Street Food Thursday](https://markthalleneun.de/veransta
 
 Finally, no matter what you do, we hope to meet some of you at ClojureD and that you'll enjoy your stay in Berlin!
 
-If you have any additions to this list reply to this tweet.
+If you have any additions to this list reply to [this tweet](https://twitter.com/heartofclojure/status/1097788032021921793).
 
 Best,  
 Martin
