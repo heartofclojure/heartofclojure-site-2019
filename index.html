@@ -1,0 +1,89 @@
+---
+layout: default
+title:  "Heart of Clojure"
+permalink: /
+---
+
+<div class="mw7 ph3 center lh-copy f4">
+  <div class="tc">
+    <h1 class="tc mb3">Heart of Clojure</h1>
+    <span class="db">✨ Our CFP is still open until March 3rd, 2019 ✨</span>
+  </div>
+  <p class="f2-ns f3 tc">A brand new Clojure conference in the heart of Europe. On <span class="pink-t60">August 2nd</span> the European community comes together for two days of talks, activities, and summer fun.</p>
+
+  <div class="btn-cta tc mv5">
+  <a class="link ba br2 bw2 b--pink-t60 hover-bg-pink-t60 hover-white pink-t60 pv3 ph4" href="{{ site.cfp_url }}">Become a Speaker</a>
+  <a class="link ba br2 bw2 b--pink-t60 hover-bg-pink-t60 hover-white pink-t60 pv3 ph4" href="{{ site.tickets_url }}">Buy Tickets</a>
+  </div>
+</div>
+
+<div class="mw7 pa3 center lh-copy f4">
+  <section class="pv5">
+    <h2 class="centered" id="support">Meet our lovely hosts!</h2>
+    <ul class="list pl0 relative pb4 tc mw6 ph3 center people">
+      {% for hosts in site.data.hosts %}
+      <li class="hide-child dib pa2">
+        <a href="{{ hosts.url }}" target="_blank" rel="noopener">
+          <img class="w3 br-100 dib" src="{{ hosts.image }}">
+          <div class="w-100 absolute child bottom-0 left-0 tc">
+            <span class="pink f5">{{ hosts.name }}</span>
+          </div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>
+<div class="teaser-wide bg-light-grey">
+  <div class="tc">
+    <h1 class="tc mb3">Speakers will be announced <span class="pink-t60">very</span> soon...</h1>
+    <span class="db">✨ Get notified by signing up for our mailing list – we only send delightful news. ✨</span>
+  </div>
+  <div class="mw7 ph3 center lh-copy f4">
+    <div class="mv5">
+      {% include mailchimp_form.html %}
+    </div>
+  </div>
+</div>
+
+<section class="teaser-wide">
+  <section class="pv5">
+    <h2 class="centered">Sponsors & Partners</h2>
+    <div class="mv3 pa3">
+      <p class="ma0">If your company is interested in sponsoring this event please don't hesitate to <a mailto="sponsors@heartofclojure.eu">reach out</a>! We've put together a few lovely packages, see them here: <a href="/Sponsor_Heart_of_Clojure.pdf">Sponsorship Brochure</a>.
+      </p>
+    </div>
+  </section>
+</section>
+
+<footer>
+  <section>
+    <h2 id="coc">Our Code of Conduct</h2>
+    <p>
+      We want to create a safe and welcoming space for our community members. This means there
+      will be no tolerance towards harassment of any kind. By attending Heart of Clojure you
+      agree to our <a class="hoc-link" href="https://berlincodeofconduct.org/">Code of
+      Conduct</a>. Please read and adhere to it.
+    </p>
+  </section>
+
+  <section class="backoffice">
+    <div>
+      <h2>Program Committee</h2>
+      <p>Jan Stępień</p>
+      <p>Dave Liepmann</p>
+      <p>Yulia Startsev</p>
+      <p>Justin Gehtland</p>
+      <p>Daniel Barreto</p>
+      <p>Tiago Luchini</p>
+      <p>Kenneth Kalmer</p>
+      <p>David Chambers</p>
+    </div>
+    <div class="organizers">
+      <h2>Organizers & Contact</h2>
+      <p>Arne Brasseur, <a mailto="arne.brasseur@gmail.com">arne.brasseur@gmail.com</a></p>
+      <p>Martin Klepsch, <a mailto="martinklepsch@gmail.com">martinklepsch@gmail.com</a></p>
+    </div>
+  </section>
+  <h5>© 2019 Heart of Clojure Conference</h5>
+</footer>

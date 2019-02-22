@@ -1,40 +1,55 @@
-footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.header-image {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-image: url('/img/hoc-cover.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-}
-
-.header-image:before {
-    content: ' ';
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-image: linear-gradient(to bottom right,#002f4b,#46722b);
-    opacity: .6;
-}
-
 header {
     text-align: center;
     position: relative;
-    padding: 14rem 0 10rem;
+    padding: 9.5rem 0 7.5rem;
     color: white;
 }
 
-header h1 {
-    position: relative;
-    z-index: 1;
+.header-image { height: 30vh; }
+
+#gradient {
+    z-index: -100;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 65vh;
+    width: 100vw;
 }
+
+footer {
+  left: 0 !important;
+  padding: 2rem 7rem;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  background-color: #e25f7d;
+}
+
+footer h2, h5 { color: black; }
+
+.backoffice {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  text-align: left;
+}
+
+.organizers {
+  margin-left: 4rem;
+}
+
+.backoffice p { line-height: 1rem; }
+.backoffice h2 { margin-top: 1rem; }
+
+.centered { text-align: center; }
+.bg-light-grey { background-color: snow; }
+.teaser-wide {
+  width: 100%;
+  padding: 2rem 6rem;
+}
+
+.people a { border-bottom: none !important; }
+.btn-cta a { border-bottom: .25rem solid #e25f7d !important; }
+.btn-cta a:hover, .people a:hover { box-shadow: none !important; }
