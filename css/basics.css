@@ -1,8 +1,9 @@
 header {
     height: 60vh;
+    width: 100vw;
     padding-top: 65px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
