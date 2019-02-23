@@ -7,6 +7,7 @@ nav {
     display: flex;
     justify-content: center;
     background-color: white;
+    border-bottom: 2px solid #e7879d;
 }
 
 .nav-up { top: -120px; }
@@ -27,7 +28,6 @@ nav {
 .nav-home:hover, .nav-home:focus, .nav-home:active {
     font-weight: bold;
     color: #0F2343;
-    box-shadow: inset 0 -2px 0 0 #0F2343;
 }
 
 /* Show Menu Options */
@@ -38,13 +38,14 @@ nav {
     width: 100vw;
     padding: .5rem 0;
     font-weight: bold;
-    background-color: rgba(255,255,255,1);
+    background-color: white;
+    border-top: 2px solid #e7879d;
 }
 
 .nav-menu .nav-menu-options a:hover {
     font-weight: bold;
     color: #0F2343;
-    background-color: rgba(88,129,216,0.2);
+    background-color: rgba(231,135,157,0.25);
 }
 
 .nav-menu-wrapper {
@@ -69,11 +70,12 @@ nav {
     .nav-items a.nav-item {
         font-weight: bold;
         color: #0F2343;
-        margin: 1rem .5rem;
-        padding: .5rem 0;
+        margin: 0 .5rem;
+        padding: 1.5rem 1rem;
     }
 
     .nav-bar a.nav-item:hover, .nav-bar a.nav-item:focus, .nav-bar a.nav-item:active {
-        box-shadow: inset 0 -2px 0 #0F2343;
+      box-shadow: inset 0 -66px 0 rgba(231,135,157,0.25);
+      transition: box-shadow .25s;
     }
 }

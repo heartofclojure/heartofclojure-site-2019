@@ -1,8 +1,9 @@
 header {
-    text-align: center;
-    position: relative;
-    padding: 9.5rem 0 7.5rem;
-    color: white;
+    height: 60vh;
+    padding-top: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .header-image { height: 30vh; }
@@ -12,22 +13,24 @@ header {
     position: absolute;
     top: 0;
     left: 0;
-    height: 65vh;
+    height: 60vh;
     width: 100vw;
 }
 
 footer {
   left: 0 !important;
-  padding: 2rem 7rem;
   display: flex;
   flex-direction: column;
-  color: white;
   justify-content: center;
   align-items: center;
+  color: white;
+  font-size: 16px;
+  line-height: 1.5rem;
+  padding: 2rem 7rem;
   background-color: #e25f7d;
 }
 
-footer h2, h5 { color: black; }
+footer h3, h5 { color: black; }
 
 .backoffice {
   display: flex;
@@ -36,13 +39,15 @@ footer h2, h5 { color: black; }
   text-align: left;
 }
 
-.organizers {
-  margin-left: 4rem;
+.organizers { margin-left: 4rem; }
+.organizers p {
+  margin: 0.25rem 0;
 }
 
-.backoffice p { line-height: 1rem; }
-.backoffice h2 { margin-top: 1rem; }
-
+.backoffice h3 { margin-top: 1rem; }
+.backoffice p {
+  margin: 0.25rem 0;
+}
 .centered { text-align: center; }
 .bg-light-grey { background-color: snow; }
 .teaser-wide {
