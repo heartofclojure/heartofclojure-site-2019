@@ -1,40 +1,61 @@
-footer {
+header {
+    height: 60vh;
+    width: 100vw;
+    padding-top: 65px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
-.header-image {
+.header-image { height: 30vh; }
+
+#gradient {
+    z-index: -100;
     position: absolute;
     top: 0;
-    right: 0;
-    bottom: 0;
     left: 0;
-    background-image: url('/img/hoc-cover.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
+    height: 60vh;
+    width: 100vw;
 }
 
-.header-image:before {
-    content: ' ';
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-image: linear-gradient(to bottom right,#002f4b,#46722b);
-    opacity: .6;
+footer {
+  left: 0 !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 16px;
+  line-height: 1.5rem;
+  padding: 2rem 7rem;
+  background-color: #e25f7d;
 }
 
-header {
-    text-align: center;
-    position: relative;
-    padding: 14rem 0 10rem;
-    color: white;
+footer h3, h5 { color: black; }
+
+.backoffice {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  text-align: left;
 }
 
-header h1 {
-    position: relative;
-    z-index: 1;
+.organizers { margin-left: 4rem; }
+.organizers p {
+  margin: 0.25rem 0;
 }
+
+.backoffice h3 { margin-top: 1rem; }
+.backoffice p {
+  margin: 0.25rem 0;
+}
+.centered { text-align: center; }
+.bg-light-grey { background-color: snow; }
+.teaser-wide {
+  width: 100%;
+  padding: 2rem 6rem;
+}
+
+.people a { border-bottom: none !important; }
+.btn-cta a { border-bottom: .25rem solid #e25f7d !important; }
+.btn-cta a:hover, .people a:hover { box-shadow: none !important; }
