@@ -12,14 +12,13 @@
   <section class="backoffice">
     <div>
       <h3>Program Committee</h3>
-      <p>Jan Stępień</p>
-      <p>Dave Liepmann</p>
-      <p>Yulia Startsev</p>
-      <p>Justin Gehtland</p>
-      <p>Daniel Barreto</p>
-      <p>Tiago Luchini</p>
-      <p>Kenneth Kalmer</p>
-      <p>David Chambers</p>
+      {% for member in site.data.program_committee %}
+        <p>{{member}}</p>
+      {% endfor %}
+      <h3>Reviewers</h3>
+      {% for member in site.data.reviewers %}
+        <p>{{member}}</p>
+      {% endfor %}
     </div>
     <div class="organizers">
       <h3>Organizers & Contact</h3>
