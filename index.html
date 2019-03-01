@@ -10,11 +10,6 @@ permalink: /
     <span class="db">✨ Our CFP is still open until March 3rd, 2019 ✨</span>
   </div>
   <p class="f2-ns f3 tc">A brand new Clojure conference in the heart of Europe. On <span class="pink-t60">August 2nd</span> the European community comes together for two days of talks, activities, and summer fun.</p>
-
-  <div class="btn-cta tc mv5">
-  <a class="link ba br2 bw2 b--pink-t60 hover-bg-pink-t60 hover-white pink-t60 pv3 ph4" href="{{ site.cfp_url }}">Become a Speaker</a>
-  <a class="link ba br2 bw2 b--pink-t60 hover-bg-pink-t60 hover-white pink-t60 pv3 ph4" href="{{ site.tickets_url }}">Tickets available soon!</a>
-  </div>
 </div>
 
 <div class="mw7 pa3 center lh-copy f4">
@@ -22,9 +17,9 @@ permalink: /
     <h2 class="centered" id="support">Meet our lovely hosts!</h2>
     <ul class="list pl0 relative pb4 tc mw6 ph3 center people">
       {% for hosts in site.data.hosts %}
-      <li class="hide-child dib pa2">
+      <li class="hide-child dib pa3">
         <a href="{{ hosts.url }}" target="_blank" rel="noopener">
-          <img class="w3 br-100 dib" src="{{ hosts.image }}">
+          <img class="w4 br-100 dib" src="{{ hosts.image }}">
           <div class="w-100 absolute child bottom-0 left-0 tc">
             <span class="pink f5">{{ hosts.name }}</span>
           </div>
@@ -34,7 +29,7 @@ permalink: /
     </ul>
   </section>
 </div>
-<div class="teaser-wide bg-light-grey">
+<div class="pa5-ns pv5 ph3 bg-light-grey">
   <div class="tc">
     <h1 class="tc mb3">Speakers will be announced <span class="pink-t60">very</span> soon...</h1>
     <span class="db">✨ Get notified by signing up for our mailing list – we only send delightful news. ✨</span>
@@ -46,12 +41,10 @@ permalink: /
   </div>
 </div>
 
-<section class="teaser-wide">
-  <section class="pv5">
+<section class="mw7 center tc">
+  <section class="pv5 ph3">
     <h2 class="centered">Sponsors & Partners</h2>
-    <div class="mv3 pa3">
-      <p class="ma0">If your company is interested in sponsoring this event please don't hesitate to <a mailto="sponsors@heartofclojure.eu">reach out</a>! We've put together a few lovely packages, see them here: <a href="/Sponsor_Heart_of_Clojure.pdf">Sponsorship Brochure</a>.
-      </p>
-    </div>
+    <p>If your company is interested in sponsoring this event please don't hesitate to <a mailto="sponsors@heartofclojure.eu">reach out</a>! We've put together a few lovely packages, see them here.</p>
+    <a class="dib ma3 link ba br2 bw2 b--pink-t60 hover-bg-pink-t60 hover-white pink-t60 pv3 ph4" href="/Sponsor_Heart_of_Clojure.pdf">Sponsorship Brochure</a>.
   </section>
 </section>

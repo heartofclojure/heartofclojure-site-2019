@@ -2,6 +2,7 @@
 layout: default
 title: Sponsorship FAQ
 permalink: /sponsor-faq
+is_markdown: true
 ---
 
 <div class="mw7 center">
