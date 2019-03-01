@@ -1,7 +1,11 @@
 name: Heart of Clojure
 cfp_url: https://cfp.heartofclojure.eu/events/heart-of-clojure
+tickets_url: https://ti.to/heart-of-clojure/heart-of-clojure-2019-leuven-belgium
+tickets_enabled: false
 highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
   parse_block_html: true
+classsets:
+  button_non_white_bg: "link ba br2 bw2 f4 b--white hover-bg-white hover-pink-t60 b white pv3 ph4 mh3"

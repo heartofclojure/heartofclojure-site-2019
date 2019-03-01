@@ -5,29 +5,30 @@
   <body>
     {% include nav.html %}
 
-    <div class="grid">
-        <header>
-            <div>
-              <img class="one" src="img/heart.svg" />
-              <img class="five"src="img/heart.svg" />
-            </div>
-            <img class="two" src="img/heart.svg" />
-            <img class="three"src="img/heart.svg" />
-            <img class="header-image" src="/img/hoc-logo-white.svg" />
-            <div id="gradient"></div>
-            <img class="four" src="img/heart.svg" />
-            <div>
-              <img class="five" src="img/heart.svg" />
-              <img class="one" src="img/heart.svg" />
-            </div>
-            <img class="six" src="img/heart.svg" />
-        </header>
+    <div>
+      <header class="tc relative overflow-auto">
+        <img class="db h5 pt6 center" src="/img/hoc-logo-white.svg" />
+        <div id="gradient" class="absolute top-0 left-0 right-0 bottom-0"></div>
 
-        <div class="main">
-          <div class="markdown lh-copy f4">
-            {{ content }}
-          </div>
+        <div class="tc mv5">
+          <a class="{{site.classsets.button_non_white_bg}} dib" href="{{ site.cfp_url }}">Become a Speaker</a>
+          {% if site.tickets_enabled %}
+          <a class="{{site.classsets.button_non_white_bg}} dib" href="{{ site.tickets_url }}">Tickets available soon!</a>
+          {% else %}
+          <a class="link ba br2 bw2 f4 b--transparent b white pv3 ph4 mh3 dib">Tickets available soon!</a>
+          {% endif %}
         </div>
+      </header>
+
+      <div class="mv5">
+        {% if page.is_markdown %}
+        <div class="markdown lh-copy f4">
+        {% else %}
+        <div class="lh-copy f4">
+        {% endif %}
+          {{ content }}
+        </div>
+      </div>
     </div>
 
     {% include footer.html %}
