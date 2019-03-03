@@ -12,5 +12,5 @@
 #   path: /tickets
 # - title: Code of Conduct
 #   path: /code-of-conduct
-# - title: Accessibility
-#   path: /accessibility
+- title: Accessibility
+  path: /accessibility
