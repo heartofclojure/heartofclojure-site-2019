@@ -34,3 +34,7 @@
 .b--hoc-black { border-color: #2c3437; }
 .hover-hoc-black:hover, .hover-hoc-black:focus { color: #2c3437; }
 .hover-bg-hoc-black:hover, .hover-bg-hoc-black:focus { background-color: #2c3437; }
+
+.bg-translucent-pink {
+  background-color: rgba(226, 96, 126, 0.05)
+}
