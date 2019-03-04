@@ -2,6 +2,7 @@
 layout: default
 title:  "Heart of Clojure - Accessibility"
 permalink: /accessibility
+is_markdown: true
 ---
 
 <div class="mw7 center">
