@@ -5,8 +5,6 @@ permalink: /sponsor-faq
 is_markdown: true
 ---
 
-<div class="mw7 center">
-
 ## Sponsorship FAQ
 
 ### Which sponsorship packages do you offer?
@@ -67,5 +65,3 @@ In practice this means:
   provide "fitted" sizes ([more info](http://geekfeminism.wikia.com/wiki/T-shirts))
 - As an alternative consider Digital Swag! We are happy to email people your
   discount codes, ebooks, or other promotional offers after the conference.
-
-</div>
