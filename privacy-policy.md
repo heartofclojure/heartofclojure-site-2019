@@ -31,11 +31,11 @@ The following sections describe the data gathered for each service, and how it i
 
 ### https://heartofclojure.eu ("the website")
 
-We do not store any information about site visitors, we do not log HTTP requests, and do not store cookies in the user's browser, tracking or otherwise. No third party cookies are stored.
+We do not store cookies in the user's browser, tracking or otherwise. No third party cookies are stored.
 
 When a user submits the form to sign up to our mailinglist, then this information is submitted to, and stored in MailChimp, as described below.
 
-The Heart of Clojure website is hosted by Github.
+The Heart of Clojure website is hosted by Github, which may log HTTP requests including IP addresses.
 
 ### https://cfp.heartofclojure.eu ("the CFP app")
 
@@ -47,6 +47,8 @@ This data is shared with our team of reviewers and with the program committee in
 
 Email addresses of submitters may be imported into MailChimp for the express purpose of keeping people informed on the status of the CFP process. These are kept in separate email lists, and deleted when the CFP process is completed. We do not sign people up to our main announcement list without explicit consent to do so.
 
+The CFP app is hosted on Heroku, which may log HTTP requests including IP addresses.
+
 ### https://activities.heartofclojure.eu ("the activities app")
 
 Registering for the activities app requires a user name, email address, and profile picture. This data is stored on Heroku ([Heroku security information](https://www.heroku.com/policy/security) and [privacy policy](https://www.salesforce.com/company/privacy/)).
@@ -56,6 +58,8 @@ When a user uses social logins (Twitter or Github OAuth, henceforth "login provi
 The information provided in the activities app, including profile information and activity sign-ups are publicly accessible.
 
 The activities app instance and all its data are destroyed one month after the conference finishes, or sooner.
+
+The CFP app is hosted on Heroku, which may log HTTP requests including IP addresses.
 
 ### [MailChimp](https://mailchimp.com)
 
@@ -118,7 +122,7 @@ In the event of consent withdrawal, we will no longer process and immediately de
 
 We store your data as long as necessary to organize Heart of Clojure, or as long as it is needed for legal or tax filing purposes.
 
-Generally we strive to delete all personal information within one month after the end of the conference.
+All personal information is deleted within one month after the end of the conference, unless longer retention is required for legal or tax filing purposes.
 
 ## Ad servers
 
