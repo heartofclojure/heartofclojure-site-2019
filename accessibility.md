@@ -5,8 +5,6 @@ permalink: /accessibility
 is_markdown: true
 ---
 
-<div class="mw7 center">
-
 ## Accessibility Statement
 
 Heart of Clojure is an inclusive conference and as such strives to be accessible to everyone. This includes:
@@ -84,5 +82,3 @@ Follow the path that leads away from the station. There will be one street to cr
 Enjoy the conference!
 
 ![](img/hal5/hal5-terrace.jpg)
-
-</div>
