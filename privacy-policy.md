@@ -45,7 +45,7 @@ When a user uses social logins (Twitter or Github OAuth, henceforth "login provi
 
 This data is shared with our team of reviewers and with the program committee in order to put together a conference program. We only keep this information as long as necessary to complete this task. The CFP app instance including any stored data is destroyed one month after the conference is over, or sooner.
 
-Email addresses of submitters may be imported into MailChimp for the express purpose of keeping people informed on the status of the CFP process. These are kept in separate email lists, and deleted when the CFP process is completed. We do not sign people up to our main announcement list without explicit consent to do so.
+Email addresses of submitters may be imported into MailChimp for the express purpose of keeping people informed on the status of the CFP process. These are kept in separate email lists, and deleted when the CFP process is completed. We do not sign people up to our newsletter without explicit consent to do so.
 
 The CFP app is hosted on Heroku, which may log HTTP requests including IP addresses.
 
