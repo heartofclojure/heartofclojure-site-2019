@@ -13,7 +13,7 @@ permalink: /
 
 <div class="mw7 pa3 center lh-copy f4">
   <section class="pv5">
-    <h2 class="centered" id="support">Meet our lovely hosts!</h2>
+    <h2 class="tc" id="support">Meet our lovely hosts!</h2>
     <ul class="list pl0 relative pb4 tc mw6 ph3 center people">
       {% for hosts in site.data.hosts %}
       <li class="hide-child dib pa3">
@@ -40,10 +40,45 @@ permalink: /
   </div>
 </div>
 
-<section class="mw7 center tc">
-  <section class="pv5 ph3">
-    <h2 class="centered">Sponsors & Partners</h2>
-    <p>If your company is interested in sponsoring this event please don't hesitate to <a mailto="sponsors@heartofclojure.eu">reach out</a>! We've put together a few lovely packages, see them here.</p>
-    <a class="dib ma3 link ba br2 bw2 b--pink-t60 hover-bg-pink-t60 hover-white pink-t60 pv3 ph4" href="/Sponsor_Heart_of_Clojure.pdf">Sponsorship Brochure</a>.
-  </section>
+<!-- <section class="mw7 center tc">
+     <section class="pv5 ph3">
+     <h2 class="tc">Sponsors & Partners</h2>
+     <p>If your company is interested in sponsoring this event please don't hesitate to <a mailto="sponsors@heartofclojure.eu">reach out</a>! We've put together a few lovely packages, see them here.</p>
+     <a class="dib ma3 link ba br2 bw2 b--pink-t60 hover-bg-pink-t60 hover-white pink-t60 pv3 ph4" href="/Sponsor_Heart_of_Clojure.pdf">Sponsorship Brochure</a>.
+     </section>
+     </section> -->
+
+<section id="sponsors" class="pt5">
+  <div class="tc mw7 center ph3">
+    <h2>Sponsors & Partners</h2>
+    <p>We couldn't be more thankful for an amazing group of companies who are the sole reason
+    this event remains affordable.</p>
+  </div>
+  <h3 class="mt5 ttu f6 tc nunito">Concrete</h3>
+  {% assign concrete = site.data.sponsors | where_exp:"s", "s.tier contains 'concrete'" %}
+  <div class="tc center">
+  {% for sponsor in concrete %}
+  <a class="dib v-mid" href="{{sponsor.url}}">
+    <img alt="{{sponsor.name}}" class="ma4" width="270px" src="{{sponsor.img}}" />
+  </a>
+  {% endfor %}
+  </div>
+  <h3 class="mt5 ttu f6 tc nunito">Brick</h3>
+  {% assign brick = site.data.sponsors | where_exp:"s", "s.tier contains 'brick'" %}
+  <div class="tc mw8 center">
+  {% for sponsor in brick %}
+  <a class="dib" href="{{sponsor.url}}">
+    <img alt="{{sponsor.name}}" class="ma4" width="200px" src="{{sponsor.img}}" />
+  </a>
+  {% endfor %}
+  </div>
+  <h3 class="mt5 ttu f6 tc nunito">Timber</h3>
+  {% assign timber = site.data.sponsors | where_exp:"s", "s.tier contains 'timber'" %}
+  <div class="tc mw8 center">
+  {% for sponsor in timber %}
+  <a class="dib" href="{{sponsor.url}}">
+    <img alt="{{sponsor.name}}" class="ma4" width="150px" src="{{sponsor.img}}" />
+  </a>
+  {% endfor %}
+  </div>
 </section>
