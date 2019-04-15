@@ -4,8 +4,8 @@
   path: /location
 # - title: Program
 #   path: /program
-- title: Call for Speakers
-  path: /call-for-speakers
+# - title: Call for Speakers
+#   path: /call-for-speakers
 - title: Be a Sponsor
   path: /sponsor-faq
 # - title: Tickets
