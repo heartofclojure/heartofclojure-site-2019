@@ -7,8 +7,19 @@
 
     <div>
       <header class="tc relative overflow-auto">
-        <a href="/"><img class="db h5 pt6 pb5 center" src="/img/hoc-logo-white.svg" /></a>
+        <img class="db h5 pt6 center" src="/img/hoc-logo-white.svg" />
         <div id="gradient" class="absolute top-0 left-0 right-0 bottom-0"></div>
+
+        <div class="tc mv5">
+          {% if site.cfp_open %}
+          <a class="{{site.classsets.button_non_white_bg}} dib" href="{{ site.cfp_url }}">Become a Speaker</a>
+          {% endif %}
+          {% if site.tickets_enabled %}
+          <a class="{{site.classsets.button_non_white_bg}} dib" href="{{ site.tickets_url }}">Get your ticket now!</a>
+          {% else %}
+          <a class="link ba br2 bw2 f4 b--transparent b white pv3 ph4 mh3 dib">Sold out!</a>
+          {% endif %}
+        </div>
       </header>
 
       <div class="mv5">

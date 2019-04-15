@@ -1,7 +1,7 @@
 name: Heart of Clojure
 cfp_url: https://cfp.heartofclojure.eu/events/heart-of-clojure
 tickets_url: https://ti.to/heart-of-clojure/heart-of-clojure-2019-leuven-belgium
-tickets_enabled: false
+tickets_enabled: true
 highlighter: rouge
 markdown: kramdown
 kramdown:
