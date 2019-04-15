@@ -50,3 +50,11 @@
   tier: concrete
   img: /img/sponsors/otto.png
   url: https://dev.otto.de
+- name: AppsFlyer
+  tier: timber
+  img: /img/sponsors/appsflyer.png
+  url: https://www.appsflyer.com/
+- name: adgoji
+  tier: brick
+  img: /img/sponsors/adgoji.png
+  url: https://www.adgoji.com/
