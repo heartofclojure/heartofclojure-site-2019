@@ -25,3 +25,7 @@
 .bg-g4 {
     background: linear-gradient(45deg, rgb(88,129,216), rgb(99,177,50))
 }
+
+.blend-screen {
+    mix-blend-mode: screen;
+}
