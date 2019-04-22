@@ -5,7 +5,6 @@ nav {
     width: 100%;
     transition: top 0.3s ease-in-out;
     display: flex;
-    justify-content: center;
     background-color: white;
     border-bottom: 2px solid #e7879d;
 }
@@ -15,20 +14,6 @@ nav {
 .nav-bar { display: none; }
 .nav-menu { display: block; }
 .nav-menu-options { display: none; }
-
-.nav-home {
-    margin: 1rem .5rem;
-    padding: .5rem 0;
-    font-weight: bold;
-    color: #0F2343;
-}
-
-.nav-home p { margin-bottom: 0; }
-
-.nav-home:hover, .nav-home:focus, .nav-home:active {
-    font-weight: bold;
-    color: #0F2343;
-}
 
 /* Show Menu Options */
 .nav-menu:hover .nav-menu-options {
@@ -46,11 +31,6 @@ nav {
     font-weight: bold;
     color: #0F2343;
     background-color: rgba(231,135,157,0.25);
-}
-
-.nav-menu-wrapper {
-    display: flex;
-    justify-content: center;
 }
 
 @media screen and (min-width: 30em) {
