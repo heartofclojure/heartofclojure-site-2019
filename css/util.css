@@ -9,3 +9,19 @@
   height: 1.5em;
   margin-left: -2.25em;
 }
+
+.bg-g1 {
+    background: linear-gradient(45deg, rgb(88,129,216), rgb(255,106,179))
+}
+
+.bg-g2 {
+    background: linear-gradient(45deg, rgb(255,106,179), rgb(99,177,50))
+}
+
+.bg-g3 {
+    background: linear-gradient(45deg, rgb(88,129,216), rgb(255,106,179))
+}
+
+.bg-g4 {
+    background: linear-gradient(45deg, rgb(88,129,216), rgb(99,177,50))
+}

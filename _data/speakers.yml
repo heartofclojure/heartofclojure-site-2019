@@ -1,0 +1,110 @@
+- name: Lisa Passing
+  id: lisa-passing
+  bio: Lisa is a full stack web dev who is exploring video games and creative coding in her free time. She has no hobbies that don't involve a computer.
+  title: Come with us now, on a journey through trigonometry and oscillation, to the world of the fragment shader
+  abstract: One of the things Clojure is known for is its usage in creative coding, most notably live coding music. But what about visuals? Let us venture into the world of creative coding with fragment shaders and see for ourselves! Finally a use case for some of the math you learnt in school! And of course, there is some Clojure involved.
+  img: /img/speakers/lisa.blob.png
+  url: https://lislis.de
+- name: Chelsey Mitchell
+  id: chelsey-mitchell
+  bio: Chelsey is currently working full time in fashion, but in past iterations worked as a Clojure dev and in music. Her interests could be described as either well rounded or all over the place, so who knows what's next.
+  title: Does Clojure Wear Prada?
+  abstract: Neural networks view the world through the lense of their training data, just as people approach the world with unique viewpoints shaped by past experiences and knowledge. What happens when you apply a previous professional experience with Clojure to a current professional interest in fashion and try to learn about machine learning in the process; In this talk we’ll discuss the process, pitfalls, and pleasures of starting out in ML using Clojure in order to explore a completely different field.
+  img: /img/speakers/chelsey.png
+  github: chelseym
+- name: Daniel Compton
+  id: daniel-compton
+  bio: Daniel Compton is the project leader of Clojurists Together, an organisation that is funding critical Clojure open source software. He's an administrator of Clojars, and maintains and contributes to many open source Clojure projects.
+  img: /img/speakers/daniel.png
+  title: "Money for Nothing: The past and future of funding OSS"
+  abstract: >-
+    Open Source Software (OSS) has created enormous value for individuals and businesses. However the creators of that software often capture a tiny fraction of that value, and can end up tired, burnt out, or quitting the project entirely.
+    <br>
+    Clojurists Together is an organisation that supports critical OSS Clojure software. This talk will discuss different ways of funding OSS, the missing ‘open source middle-class’, why we don't buy an Enterprise Edition of a banana, the benefits of funding OSS for all parties, and some future directions for funding OSS that we think are promising.
+- name: Fabrizio Ferrai
+  id: fabrizio-ferrai
+  title: "Live-coding a Compiler: A Challenge"
+  url: https://ferrai.io
+  img: /img/speakers/fabrizio.png
+  bio: >-
+    Fabrizio is a Software Engineer from Sardinia (Italy), currently helping good journalism with good functional programming at KSF Media in Helsinki, Finland. Lately he's into distributed systems, developer UX, and programming languages. In fact, he somehow ended up as a core contributor to the Dhall language. If you'd like to get him excited come talk and mention functional programming, fractals, electronic music, rockets, coffee or food.
+  abstract: >-
+    Have you ever wondered about how compilers work? I used to be scared of them. Big, complicated, magic programs. But they power our everyday lives and allow us to make the world a bit better with software. Oh, and it turns out there’s nothing magic to them.
+    <br>
+    In this talk we’ll wander in the land of parsers, typecheckers and normalizations. We’ll demonstrate that a compiler fits what Clojure is best at: transforming data. And we’ll live-code a small little compiler of our own in Clojure, for the simplest computation device we have: lambda calculus.
+- name: Maarten Truyens
+  id: maarten-truyens
+  title: "Innovation in an immutable industry: Clojure in law"
+  url: https://www.clausebase.com
+  img: /img/speakers/maarten.png
+  bio: >-
+    Maarten is a former IT lawyer, who used to work in a global international law firm and then as inhouse legal counsel in the financial sector. As a lawyer, he is specialised in data protection law, technology legislation and drafting licensing and outsourcing agreements. Displeased with the repetitive tasks involved in drafting complex legal documents, he created a startup (ClauseBase) that develops innovative contract drafting software.
+  abstract: >-
+    This talk will discuss how Clojure/script was used by a small team to create advanced drafting software for lawyers. It will first outline how lawyers currently draft contracts, and why this is a primarily manual process that has been almost resistant to real automation. It will then describe why Clojure/script was chosen, how its proclaimed benefits turned out in practice, and how Clojure/script was instrumental in transforming the software from a rough idea into a demo and then actual product. The talk concludes with pitfalls encountered and honest lessons learned.k
+- name: Sarah Groff Hennigh-Palermo
+  id: sarah-groff-hennigh-palermo
+  title: Raving Through the 90s with SVG and Clojurescript
+  url: https://art.sarahghp.com
+  img: /img/speakers/sarah.png
+  bio: >-
+    Sarah Groff Hennigh-Palermo is a digital artist and programmer. She creates geometric sketches and films and sometimes performs live as Codie’s visualist — most often using La Habra, a framework she wrote with Clojurescript. Sarah is an alumna of the School for Poetic Computation and Recurse Center, and has taken part in group shows at Sonar+D, Westbeth, Day for Night, and Flux Factory. Sarah currently works as a senior front-end engineer at Gitlab.
+  abstract: >-
+    Sometimes we use code for work. Sometimes we use code for art. Sometimes we use code to generate art live — while our friends work it. La Habra is a Clojurescript based framework that helps me do the latter, while embracing both retro graphics and imperfection. Let's look at the framework and then code some graphics — live!
+- name: Lily M. Goh
+  id: lily-m-goh
+  title: Engineering Empathy
+  url: https://www.paren.com/
+  twitter: lilymgoh
+  github: lilymgoh
+  img: /img/speakers/lily.png
+  bio: >-
+    Lily is a passionate frontend developer and a fan functional programming. She is a partner at a small software consultancy, (paren). Nothing pains her more than seeing buggy UI & bad UX.
+  abstract: >-
+    You are not your code. Repeat after me. "I am not my code!"
+    <br><br>
+    There is more to work than coding and there is more to teamwork than code review. In this talk, we will ask each other the hard questions about what it means to be a software developer and how to effectively work with people of varying genders, ethnicities, geographies, beliefs, and abilities.
+    <br><br>
+    This talk aims to open our hearts beyond Clojure. We must develop empathy to grow as developers.
+- name: Chris Adams
+  id: chris-adams
+  title: What you can do when software is heating the world
+  url: https://chrisadams.me.uk
+  github: mrchrisadams
+  twitter: mrchrisadams
+  bio: >-
+    Chris Adams is an environmentally focussed tech generalist, spending the last ten years working in tech startups, large companies and government, as a user researcher, product manager, developer, sysadmin and UX-er. Based in Berlin, he currently builds open source tools, and publishes open datasets with the Green Web Foundation, to help others understand and reduce the environmental impact of digital products they build.
+  abstract: >-
+    You might have heard stories about how bitcoin, or the internet itself, is responsible for an ever-growing share of global carbon emissions.
+    <br><br>
+    But did you know that just by switching AWS regions in the US, you can wipe out a huge chunk of the carbon footprint from running your tech infrastructure? Most people don't, and we need stuff like this to be common knowledge in our industry.
+    <br><br>
+    In this talk, you'll learn about the environmental impact of the digital products and services we build, how to measure it, and how to use skills you already have to make meaningful, measurable improvements to it.
+- name: Tobias Pfeiffer
+  id: tobias-pfeiffer
+  title: Functioning Amoung Humans
+  url: https://pragtob.info
+  twitter: pragtob
+  github: pragtob
+  bio: >-
+    Tobi is a clean coder, Full Stack developer, Benchmarker by passion, Rubyist, Elixir fan, learner, teacher and agile crafter by passion. He organizes the Ruby User Group Berlin, maintains Shoes and benchee as well as contributing to a variety of projects while thinking about new ideas to put into code and push boundaries. He loves collaboratively creating just about anything people enjoy. Most of all he's a human though.
+  abstract: >-
+    In the development world most people are striving for technical excellence: better code, faster run times, more convenient interfaces, better databases… But is that really what helps us create better software?
+    <br><br>
+    In the end software development is done by groups of people creating products together. To do that communication and collaboration between humans is essential. You can be the best programmer ever, but if you can’t efficiently work with others what good does it do you?
+    <br><br>
+    This talk will introduce you to relevant, easy to grasp concepts of collaboration and communication as well as give you fo
+
+- name: Ramón Huidobro
+  id: ramon-huidobro
+  title: How teaching kids to code can make you a better developer
+  url: https://ramonhuidobro.com
+  twitter: senorhuidobro
+  github: ramonh
+  bio: >-
+    Ramón Huidobro is a chilean kids’ coding instructor and freelance software dev. He likes to introduce people to coding more than he enjoys coding itself. If you want pointless Nintendo trivia, look no further than Ramón! You’ll probably find him at a lot of conferences and has been told he has a distinctive laugh, so he’s easy to spot, especially when wearing a onesie.
+  abstract: >-
+    Kids have this magical ability to take something you think you understand well and turn it upside down by challenging norms.
+    <br><br>
+    Teaching has been an extraordinary turning point for me. You can take the lessons learned from it and turn them into skills. Everyone can benefit from teaching!
+
+
