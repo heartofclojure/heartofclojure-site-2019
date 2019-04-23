@@ -2,8 +2,8 @@
   path: /
 - title: Location
   path: /location
-# - title: Program
-#   path: /program
+- title: Program
+  path: /program
 # - title: Call for Speakers
 #   path: /call-for-speakers
 - title: Be a Sponsor
