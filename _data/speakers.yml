@@ -5,6 +5,7 @@
   abstract: One of the things Clojure is known for is its usage in creative coding, most notably live coding music. But what about visuals? Let us venture into the world of creative coding with fragment shaders and see for ourselves! Finally a use case for some of the math you learnt in school! And of course, there is some Clojure involved.
   img: /img/speakers/lisa.blob.png
   url: https://lislis.de
+  github: lislis
   public: true
 - name: Chelsey Mitchell
   id: chelsey-mitchell
@@ -16,6 +17,9 @@
 - name: Daniel Compton
   id: daniel-compton
   bio: Daniel Compton is the project leader of Clojurists Together, an organisation that is funding critical Clojure open source software. He's an administrator of Clojars, and maintains and contributes to many open source Clojure projects.
+  twitter: danielwithmusic
+  github: danielcompton
+  url: https://danielcompton.net
   img: /img/speakers/daniel.png
   title: "Money for Nothing: The past and future of funding OSS"
   abstract: >-
