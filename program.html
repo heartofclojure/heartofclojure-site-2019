@@ -1,0 +1,53 @@
+---
+layout: default
+title:  "Program - Heart of Clojure"
+permalink: /program
+---
+<div class="mv5">
+    <div class="lh-copy f4">
+        <p class="tc mw7 center">We're very excited to present the speakers below at Heart of Clojure 2019.</p>
+        <p class="tc mw7 center">Note that this list isn't yet complete, to stay in the loop, <a class="hoc-link" href="https://twitter.com/heartofclojure">follow @heartofclojure.</a></p>
+
+
+        <div class="bg-white">
+            {% assign published = site.data.speakers | where:"public","true" %}
+            {% for speaker in published %}
+            <div class="cf mw8 center pt6" id="{{speaker.id}}">
+                <div class="fl-m fl-l w-third-m w-third-l pa4">
+                    <img alt="{{speaker.name}}" class="w-100 mt4" src="{{speaker.img}}" />
+                    <span class="db pink-t60 b tc">{{speaker.name}}</span>
+                    {% if speaker.url %}
+                    <a class="f6 db tc link black-60" href="{{speaker.url}}">
+                        {{speaker.url}}
+                    </a>
+                    {% endif %}
+                    <span class="db tc">
+                        {% if speaker.twitter %}
+                        <a href="https://twitter.com/{{speaker.twitter}}">
+                            <img class="pa2" src="https://icon.now.sh/twitter/e25f7d/24">
+                        </a>
+                        {% endif %}
+                        {% if speaker.github %}
+                        <a href="https://github.com/{{speaker.github}}">
+                            <img class="pa2" src="https://icon.now.sh/github/e25f7d/24">
+                        </a>
+                        {% endif %}
+                    </span>
+                </div>
+                <div class="fl-m fl-l w-two-thirds-m w-two-thirds-l pa3">
+                    <div class="bg-g{% cycle 1, 2, 3, 4 %}">
+                        <h2 class="mv0 blend-screen bg-white">
+                            {{speaker.title}}
+                            <a href="#{{speaker.id}}"><img src="https://icon.now.sh/link/24"></a>
+                        </h2>
+                    </div>
+                    <p>{{speaker.abstract}}</p>
+                    <p class="f5"><b class="pink-t60">About {{speaker.name | split:' ' | first}}:</b> {{speaker.bio }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</div>
+
