@@ -5,6 +5,7 @@
   abstract: One of the things Clojure is known for is its usage in creative coding, most notably live coding music. But what about visuals? Let us venture into the world of creative coding with fragment shaders and see for ourselves! Finally a use case for some of the math you learnt in school! And of course, there is some Clojure involved.
   img: /img/speakers/lisa.blob.png
   url: https://lislis.de
+  public: true
 - name: Chelsey Mitchell
   id: chelsey-mitchell
   bio: Chelsey is currently working full time in fashion, but in past iterations worked as a Clojure dev and in music. Her interests could be described as either well rounded or all over the place, so who knows what's next.
@@ -21,6 +22,7 @@
     Open Source Software (OSS) has created enormous value for individuals and businesses. However the creators of that software often capture a tiny fraction of that value, and can end up tired, burnt out, or quitting the project entirely.
     <br>
     Clojurists Together is an organisation that supports critical OSS Clojure software. This talk will discuss different ways of funding OSS, the missing ‘open source middle-class’, why we don't buy an Enterprise Edition of a banana, the benefits of funding OSS for all parties, and some future directions for funding OSS that we think are promising.
+  public: true
 - name: Fabrizio Ferrai
   id: fabrizio-ferrai
   title: "Live-coding a Compiler: A Challenge"
@@ -40,7 +42,8 @@
   bio: >-
     Maarten is a former IT lawyer, who used to work in a global international law firm and then as inhouse legal counsel in the financial sector. As a lawyer, he is specialised in data protection law, technology legislation and drafting licensing and outsourcing agreements. Displeased with the repetitive tasks involved in drafting complex legal documents, he created a startup (ClauseBase) that develops innovative contract drafting software.
   abstract: >-
-    This talk will discuss how Clojure/script was used by a small team to create advanced drafting software for lawyers. It will first outline how lawyers currently draft contracts, and why this is a primarily manual process that has been almost resistant to real automation. It will then describe why Clojure/script was chosen, how its proclaimed benefits turned out in practice, and how Clojure/script was instrumental in transforming the software from a rough idea into a demo and then actual product. The talk concludes with pitfalls encountered and honest lessons learned.k
+    This talk will discuss how Clojure/script was used by a small team to create advanced drafting software for lawyers. It will first outline how lawyers currently draft contracts, and why this is a primarily manual process that has been almost resistant to real automation. It will then describe why Clojure/script was chosen, how its proclaimed benefits turned out in practice, and how Clojure/script was instrumental in transforming the software from a rough idea into a demo and then actual product. The talk concludes with pitfalls encountered and honest lessons learned.
+  public: true
 - name: Sarah Groff Hennigh-Palermo
   id: sarah-groff-hennigh-palermo
   title: Raving Through the 90s with SVG and Clojurescript
@@ -65,6 +68,7 @@
     There is more to work than coding and there is more to teamwork than code review. In this talk, we will ask each other the hard questions about what it means to be a software developer and how to effectively work with people of varying genders, ethnicities, geographies, beliefs, and abilities.
     <br><br>
     This talk aims to open our hearts beyond Clojure. We must develop empathy to grow as developers.
+  public: true
 - name: Chris Adams
   id: chris-adams
   title: What you can do when software is heating the world

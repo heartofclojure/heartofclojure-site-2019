@@ -10,7 +10,8 @@ permalink: /program
 
 
         <div class="bg-white">
-            {% for speaker in site.data.speakers %}
+            {% assign published = site.data.speakers | where:"public","true" %}
+            {% for speaker in published %}
             <div class="cf mw8 center pt6" id="{{speaker.id}}">
                 <div class="fl-m fl-l w-third-m w-third-l pa4">
                     <img alt="{{speaker.name}}" class="w-100 mt4" src="{{speaker.img}}" />
