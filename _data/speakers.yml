@@ -38,6 +38,7 @@
     Have you ever wondered about how compilers work? I used to be scared of them. Big, complicated, magic programs. But they power our everyday lives and allow us to make the world a bit better with software. Oh, and it turns out there’s nothing magic to them.
     <br>
     In this talk we’ll wander in the land of parsers, typecheckers and normalizations. We’ll demonstrate that a compiler fits what Clojure is best at: transforming data. And we’ll live-code a small little compiler of our own in Clojure, for the simplest computation device we have: lambda calculus.
+  public: true
 - name: Maarten Truyens
   id: maarten-truyens
   title: "Innovation in an immutable industry: Clojure in law"
@@ -57,6 +58,7 @@
     Sarah Groff Hennigh-Palermo is a digital artist and programmer. She creates geometric sketches and films and sometimes performs live as Codie’s visualist — most often using La Habra, a framework she wrote with Clojurescript. Sarah is an alumna of the School for Poetic Computation and Recurse Center, and has taken part in group shows at Sonar+D, Westbeth, Day for Night, and Flux Factory. Sarah currently works as a senior front-end engineer at Gitlab.
   abstract: >-
     Sometimes we use code for work. Sometimes we use code for art. Sometimes we use code to generate art live — while our friends work it. La Habra is a Clojurescript based framework that helps me do the latter, while embracing both retro graphics and imperfection. Let's look at the framework and then code some graphics — live!
+  public: true
 - name: Lily M. Goh
   id: lily-m-goh
   title: Engineering Empathy
@@ -79,6 +81,7 @@
   url: https://chrisadams.me.uk
   github: mrchrisadams
   twitter: mrchrisadams
+  img: /img/speakers/chris.png
   bio: >-
     Chris Adams is an environmentally focussed tech generalist, spending the last ten years working in tech startups, large companies and government, as a user researcher, product manager, developer, sysadmin and UX-er. Based in Berlin, he currently builds open source tools, and publishes open datasets with the Green Web Foundation, to help others understand and reduce the environmental impact of digital products they build.
   abstract: >-
@@ -87,6 +90,7 @@
     But did you know that just by switching AWS regions in the US, you can wipe out a huge chunk of the carbon footprint from running your tech infrastructure? Most people don't, and we need stuff like this to be common knowledge in our industry.
     <br><br>
     In this talk, you'll learn about the environmental impact of the digital products and services we build, how to measure it, and how to use skills you already have to make meaningful, measurable improvements to it.
+  public: true
 - name: Tobias Pfeiffer
   id: tobias-pfeiffer
   title: Functioning Amoung Humans
@@ -108,11 +112,13 @@
   url: https://ramonhuidobro.com
   twitter: senorhuidobro
   github: ramonh
+  img: /img/speakers/ramon.png
   bio: >-
     Ramón Huidobro is a chilean kids’ coding instructor and freelance software dev. He likes to introduce people to coding more than he enjoys coding itself. If you want pointless Nintendo trivia, look no further than Ramón! You’ll probably find him at a lot of conferences and has been told he has a distinctive laugh, so he’s easy to spot, especially when wearing a onesie.
   abstract: >-
     Kids have this magical ability to take something you think you understand well and turn it upside down by challenging norms.
     <br><br>
     Teaching has been an extraordinary turning point for me. You can take the lessons learned from it and turn them into skills. Everyone can benefit from teaching!
+  public: true
 
 
