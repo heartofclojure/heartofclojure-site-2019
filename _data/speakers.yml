@@ -38,7 +38,7 @@
     Have you ever wondered about how compilers work? I used to be scared of them. Big, complicated, magic programs. But they power our everyday lives and allow us to make the world a bit better with software. Oh, and it turns out there’s nothing magic to them.
     <br>
     In this talk we’ll wander in the land of parsers, typecheckers and normalizations. We’ll demonstrate that a compiler fits what Clojure is best at: transforming data. And we’ll live-code a small little compiler of our own in Clojure, for the simplest computation device we have: lambda calculus.
-  publis: true
+  public: true
 - name: Maarten Truyens
   id: maarten-truyens
   title: "Innovation in an immutable industry: Clojure in law"
