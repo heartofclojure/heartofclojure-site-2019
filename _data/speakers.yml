@@ -133,7 +133,7 @@
 
 - name: Mey Beisaron
   id: mey-beisaron
-  title: Back to the Future: How 80s Arcade Games Taught me Clojure
+  title: "Back to the Future: How 80s Arcade Games Taught me Clojure"
   bio: Software Engineer by day, Hackathons hacker by night;  Mey is a public speaker, a Backend Developer, and a Software Engineering graduate. When she is not spending her weekends at hackathons, she experiments with algorithms OR learns languages such as Russian, French & Clojure.   Mey is also a sworn star wars fan. May the force be with you.
   abstract: Who said games aren’t educational?<br><br>Learning a new language on your own is never easy, and you often find yourself stuck and frustrated. This is why I went back to what was familiar, in this case, a simple Java game I programmed, to help learn and better my understanding of coding in Clojure. In my talk I will present how I applied familiar concepts, searched for similarities and leveraged shared libraries in the process of re-coding a 2D Java game into Clojure. I will present enough code examples so by the end of this talk you won’t know how to win Pac-Man but you’ll be able to write it in Clojure
   img: /img/speakers/mey.blob.png
