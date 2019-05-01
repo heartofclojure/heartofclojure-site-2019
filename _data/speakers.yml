@@ -102,9 +102,9 @@
   abstract: >-
     In the development world most people are striving for technical excellence: better code, faster run times, more convenient interfaces, better databases… But is that really what helps us create better software?
     <br><br>
-    In the end software development is done by groups of people creating products together. To do that communication and collaboration between humans is essential. You can be the best programmer ever, but if you can’t efficiently work with others what good does it do you?
+    In the end software development is done by groups of people creating products together. To do that communication and collaboration are essential. You can be the best programmer ever, but if you can’t efficiently work with others what good does it do you?
     <br><br>
-    This talk will introduce you to relevant, easy to grasp concepts of collaboration and communication as well as give you fo
+    This talk will introduce you to relevant, easy to grasp concepts of collaboration and communication as well as give you food for thought.
 
 - name: Ramón Huidobro
   id: ramon-huidobro
