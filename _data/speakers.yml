@@ -82,6 +82,7 @@
     <br><br>
     This talk aims to open our hearts beyond Clojure. We must develop empathy to grow as developers.
   public: true
+
 - name: Chris Adams
   id: chris-adams
   title: What you can do when software is heating the world
