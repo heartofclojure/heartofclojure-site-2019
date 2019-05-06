@@ -28,7 +28,7 @@ permalink: /
     </ul>
     <h2 class="tc" id="speakers">... and speakers:</h2>
     <ul class="list pl0 pb4 tc mw7 ph3 center people">
-        {% assign published = site.data.speakers | where:"public","true" %}
+        {% assign published = site.data.speakers | where:"public","true" | sort: 'id' %}
         {% for speaker in published %}
         <li class="dib pa3">
             <a class="link b" href="/program#{{ speaker.id }}">

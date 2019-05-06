@@ -7,31 +7,35 @@
   url: https://lislis.de
   github: lislis
   public: true
+
 - name: Chelsey Mitchell
   id: chelsey-mitchell
   bio: Chelsey is currently working full time in fashion, but in past iterations worked as a Clojure dev and in music. Her interests could be described as either well rounded or all over the place, so who knows what's next.
   title: Does Clojure Wear Prada?
   abstract: Neural networks view the world through the lense of their training data, just as people approach the world with unique viewpoints shaped by past experiences and knowledge. What happens when you apply a previous professional experience with Clojure to a current professional interest in fashion and try to learn about machine learning in the process; In this talk we’ll discuss the process, pitfalls, and pleasures of starting out in ML using Clojure in order to explore a completely different field.
-  img: /img/speakers/chelsey.png
+  img: /img/speakers/chelsey.blob.png
   github: chelseym
+  public: true
+
 - name: Daniel Compton
   id: daniel-compton
   bio: Daniel Compton is the project leader of Clojurists Together, an organisation that is funding critical Clojure open source software. He's an administrator of Clojars, and maintains and contributes to many open source Clojure projects.
   twitter: danielwithmusic
   github: danielcompton
   url: https://danielcompton.net
-  img: /img/speakers/daniel.png
+  img: /img/speakers/daniel.blob.png
   title: "Money for Nothing: The past and future of funding OSS"
   abstract: >-
     Open Source Software (OSS) has created enormous value for individuals and businesses. However the creators of that software often capture a tiny fraction of that value, and can end up tired, burnt out, or quitting the project entirely.
     <br>
     Clojurists Together is an organisation that supports critical OSS Clojure software. This talk will discuss different ways of funding OSS, the missing ‘open source middle-class’, why we don't buy an Enterprise Edition of a banana, the benefits of funding OSS for all parties, and some future directions for funding OSS that we think are promising.
   public: true
+
 - name: Fabrizio Ferrai
   id: fabrizio-ferrai
   title: "Live-coding a Compiler: A Challenge"
   url: https://ferrai.io
-  img: /img/speakers/fabrizio.png
+  img: /img/speakers/fabrizio.blob.png
   bio: >-
     Fabrizio is a Software Engineer from Sardinia (Italy), currently helping good journalism with good functional programming at KSF Media in Helsinki, Finland. Lately he's into distributed systems, developer UX, and programming languages. In fact, he somehow ended up as a core contributor to the Dhall language. If you'd like to get him excited come talk and mention functional programming, fractals, electronic music, rockets, coffee or food.
   abstract: >-
@@ -39,33 +43,36 @@
     <br>
     In this talk we’ll wander in the land of parsers, typecheckers and normalizations. We’ll demonstrate that a compiler fits what Clojure is best at: transforming data. And we’ll live-code a small little compiler of our own in Clojure, for the simplest computation device we have: lambda calculus.
   public: true
+
 - name: Maarten Truyens
   id: maarten-truyens
   title: "Innovation in an immutable industry: Clojure in law"
   url: https://www.clausebase.com
-  img: /img/speakers/maarten.png
+  img: /img/speakers/maarten.blob.png
   bio: >-
     Maarten is a former IT lawyer, who used to work in a global international law firm and then as inhouse legal counsel in the financial sector. As a lawyer, he is specialised in data protection law, technology legislation and drafting licensing and outsourcing agreements. Displeased with the repetitive tasks involved in drafting complex legal documents, he created a startup (ClauseBase) that develops innovative contract drafting software.
   abstract: >-
     This talk will discuss how Clojure/script was used by a small team to create advanced drafting software for lawyers. It will first outline how lawyers currently draft contracts, and why this is a primarily manual process that has been almost resistant to real automation. It will then describe why Clojure/script was chosen, how its proclaimed benefits turned out in practice, and how Clojure/script was instrumental in transforming the software from a rough idea into a demo and then actual product. The talk concludes with pitfalls encountered and honest lessons learned.
   public: true
+
 - name: Sarah Groff Hennigh-Palermo
   id: sarah-groff-hennigh-palermo
   title: Raving Through the 90s with SVG and Clojurescript
   url: https://art.sarahghp.com
-  img: /img/speakers/sarah.png
+  img: /img/speakers/sarah.blob.png
   bio: >-
     Sarah Groff Hennigh-Palermo is a digital artist and programmer. She creates geometric sketches and films and sometimes performs live as Codie’s visualist — most often using La Habra, a framework she wrote with Clojurescript. Sarah is an alumna of the School for Poetic Computation and Recurse Center, and has taken part in group shows at Sonar+D, Westbeth, Day for Night, and Flux Factory. Sarah currently works as a senior front-end engineer at Gitlab.
   abstract: >-
     Sometimes we use code for work. Sometimes we use code for art. Sometimes we use code to generate art live — while our friends work it. La Habra is a Clojurescript based framework that helps me do the latter, while embracing both retro graphics and imperfection. Let's look at the framework and then code some graphics — live!
   public: true
+
 - name: Lily M. Goh
   id: lily-m-goh
   title: Engineering Empathy
   url: https://www.paren.com/
   twitter: lilymgoh
   github: lilymgoh
-  img: /img/speakers/lily.png
+  img: /img/speakers/lily.blob.png
   bio: >-
     Lily is a passionate frontend developer and a fan functional programming. She is a partner at a small software consultancy, (paren). Nothing pains her more than seeing buggy UI & bad UX.
   abstract: >-
@@ -75,13 +82,14 @@
     <br><br>
     This talk aims to open our hearts beyond Clojure. We must develop empathy to grow as developers.
   public: true
+
 - name: Chris Adams
   id: chris-adams
   title: What you can do when software is heating the world
   url: https://chrisadams.me.uk
   github: mrchrisadams
   twitter: mrchrisadams
-  img: /img/speakers/chris.png
+  img: /img/speakers/chris.blob.png
   bio: >-
     Chris Adams is an environmentally focussed tech generalist, spending the last ten years working in tech startups, large companies and government, as a user researcher, product manager, developer, sysadmin and UX-er. Based in Berlin, he currently builds open source tools, and publishes open datasets with the Green Web Foundation, to help others understand and reduce the environmental impact of digital products they build.
   abstract: >-
@@ -91,20 +99,23 @@
     <br><br>
     In this talk, you'll learn about the environmental impact of the digital products and services we build, how to measure it, and how to use skills you already have to make meaningful, measurable improvements to it.
   public: true
+
 - name: Tobias Pfeiffer
   id: tobias-pfeiffer
   title: Functioning Amoung Humans
   url: https://pragtob.info
   twitter: pragtob
   github: pragtob
+  img: /img/speakers/tobi.blob.png
   bio: >-
     Tobi is a clean coder, Full Stack developer, Benchmarker by passion, Rubyist, Elixir fan, learner, teacher and agile crafter by passion. He organizes the Ruby User Group Berlin, maintains Shoes and benchee as well as contributing to a variety of projects while thinking about new ideas to put into code and push boundaries. He loves collaboratively creating just about anything people enjoy. Most of all he's a human though.
   abstract: >-
     In the development world most people are striving for technical excellence: better code, faster run times, more convenient interfaces, better databases… But is that really what helps us create better software?
     <br><br>
-    In the end software development is done by groups of people creating products together. To do that communication and collaboration between humans is essential. You can be the best programmer ever, but if you can’t efficiently work with others what good does it do you?
+    In the end software development is done by groups of people creating products together. To do that communication and collaboration are essential. You can be the best programmer ever, but if you can’t efficiently work with others what good does it do you?
     <br><br>
-    This talk will introduce you to relevant, easy to grasp concepts of collaboration and communication as well as give you fo
+    This talk will introduce you to relevant, easy to grasp concepts of collaboration and communication as well as give you food for thought.
+  public: true
 
 - name: Ramón Huidobro
   id: ramon-huidobro
@@ -112,7 +123,7 @@
   url: https://ramonhuidobro.com
   twitter: senorhuidobro
   github: ramonh
-  img: /img/speakers/ramon.png
+  img: /img/speakers/ramon.blob.png
   bio: >-
     Ramón Huidobro is a chilean kids’ coding instructor and freelance software dev. He likes to introduce people to coding more than he enjoys coding itself. If you want pointless Nintendo trivia, look no further than Ramón! You’ll probably find him at a lot of conferences and has been told he has a distinctive laugh, so he’s easy to spot, especially when wearing a onesie.
   abstract: >-
@@ -121,4 +132,44 @@
     Teaching has been an extraordinary turning point for me. You can take the lessons learned from it and turn them into skills. Everyone can benefit from teaching!
   public: true
 
+- name: Mey Beisaron
+  id: mey-beisaron
+  title: "Back to the Future: How 80s Arcade Games Taught me Clojure"
+  bio: Software Engineer by day, Hackathons hacker by night;  Mey is a public speaker, a Backend Developer, and a Software Engineering graduate. When she is not spending her weekends at hackathons, she experiments with algorithms OR learns languages such as Russian, French & Clojure.   Mey is also a sworn star wars fan. May the force be with you.
+  abstract: Who said games aren’t educational?<br><br>Learning a new language on your own is never easy, and you often find yourself stuck and frustrated. This is why I went back to what was familiar, in this case, a simple Java game I programmed, to help learn and better my understanding of coding in Clojure. In my talk I will present how I applied familiar concepts, searched for similarities and leveraged shared libraries in the process of re-coding a 2D Java game into Clojure. I will present enough code examples so by the end of this talk you won’t know how to win Pac-Man but you’ll be able to write it in Clojure
+  img: /img/speakers/mey.blob.png
+  twitter: ladymeyy
+  github: ladymeyy
+  public: true
 
+- name: Tiago Luchini
+  id: tiago-luchini
+  title: Building Resilient Clojure Apps
+  bio: Tiago Luchini’s passion is bridging software development and business together  via successful digital products. In his 22 years of experience he has personally  shipped more than 40 digital products and has ramped up global teams responsible  for planning, development and releasing hundreds of digital products.
+  abstract: Resiliency is the ability to recover from failures and continue to function. It is not about avoiding failures but accepting the fact that failures will happen and responding to them in a way that avoids downtime or data loss. The goal of resiliency is to return the application to a fully functioning state after a failure. In this talk we will take a look at some of the solutions, libraries, and implementation approaches available to the Clojure ecosystem for building resilient applications.
+  img: /img/speakers/tiago.blob.png
+  url: https://luchini.nyc
+  twitter: tiagoluchini
+  github: luchiniatwork
+  public: true
+
+- name: Yulia Startsev
+  id: yulia-startsev
+  title: TBD
+  bio:
+  abstract:
+  img: /img/speakers/yulia.blob.png
+  url: https://hag.codes
+  twitter: ioctaptceb
+  github: codehag
+  public: false
+
+- name: Rachel Lawson
+  id: rachel-lawson
+  title: TBD
+  bio:
+  abstract:
+  img: /img/speakers/rachel.blob.png
+  url: https://www.drupal.org/u/rachel_norfolk
+  twitter: rachel_norfolk
+  public: false
