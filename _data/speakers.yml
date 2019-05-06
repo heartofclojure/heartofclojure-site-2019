@@ -13,7 +13,7 @@
   bio: Chelsey is currently working full time in fashion, but in past iterations worked as a Clojure dev and in music. Her interests could be described as either well rounded or all over the place, so who knows what's next.
   title: Does Clojure Wear Prada?
   abstract: Neural networks view the world through the lense of their training data, just as people approach the world with unique viewpoints shaped by past experiences and knowledge. What happens when you apply a previous professional experience with Clojure to a current professional interest in fashion and try to learn about machine learning in the process; In this talk we’ll discuss the process, pitfalls, and pleasures of starting out in ML using Clojure in order to explore a completely different field.
-  img: /img/speakers/chelsey.png
+  img: /img/speakers/chelsey.blob.png
   github: chelseym
   public: true
 
@@ -23,7 +23,7 @@
   twitter: danielwithmusic
   github: danielcompton
   url: https://danielcompton.net
-  img: /img/speakers/daniel.png
+  img: /img/speakers/daniel.blob.png
   title: "Money for Nothing: The past and future of funding OSS"
   abstract: >-
     Open Source Software (OSS) has created enormous value for individuals and businesses. However the creators of that software often capture a tiny fraction of that value, and can end up tired, burnt out, or quitting the project entirely.
@@ -35,7 +35,7 @@
   id: fabrizio-ferrai
   title: "Live-coding a Compiler: A Challenge"
   url: https://ferrai.io
-  img: /img/speakers/fabrizio.png
+  img: /img/speakers/fabrizio.blob.png
   bio: >-
     Fabrizio is a Software Engineer from Sardinia (Italy), currently helping good journalism with good functional programming at KSF Media in Helsinki, Finland. Lately he's into distributed systems, developer UX, and programming languages. In fact, he somehow ended up as a core contributor to the Dhall language. If you'd like to get him excited come talk and mention functional programming, fractals, electronic music, rockets, coffee or food.
   abstract: >-
@@ -48,7 +48,7 @@
   id: maarten-truyens
   title: "Innovation in an immutable industry: Clojure in law"
   url: https://www.clausebase.com
-  img: /img/speakers/maarten.png
+  img: /img/speakers/maarten.blob.png
   bio: >-
     Maarten is a former IT lawyer, who used to work in a global international law firm and then as inhouse legal counsel in the financial sector. As a lawyer, he is specialised in data protection law, technology legislation and drafting licensing and outsourcing agreements. Displeased with the repetitive tasks involved in drafting complex legal documents, he created a startup (ClauseBase) that develops innovative contract drafting software.
   abstract: >-
@@ -59,7 +59,7 @@
   id: sarah-groff-hennigh-palermo
   title: Raving Through the 90s with SVG and Clojurescript
   url: https://art.sarahghp.com
-  img: /img/speakers/sarah.png
+  img: /img/speakers/sarah.blob.png
   bio: >-
     Sarah Groff Hennigh-Palermo is a digital artist and programmer. She creates geometric sketches and films and sometimes performs live as Codie’s visualist — most often using La Habra, a framework she wrote with Clojurescript. Sarah is an alumna of the School for Poetic Computation and Recurse Center, and has taken part in group shows at Sonar+D, Westbeth, Day for Night, and Flux Factory. Sarah currently works as a senior front-end engineer at Gitlab.
   abstract: >-
@@ -72,7 +72,7 @@
   url: https://www.paren.com/
   twitter: lilymgoh
   github: lilymgoh
-  img: /img/speakers/lily.png
+  img: /img/speakers/lily.blob.png
   bio: >-
     Lily is a passionate frontend developer and a fan functional programming. She is a partner at a small software consultancy, (paren). Nothing pains her more than seeing buggy UI & bad UX.
   abstract: >-
@@ -89,7 +89,7 @@
   url: https://chrisadams.me.uk
   github: mrchrisadams
   twitter: mrchrisadams
-  img: /img/speakers/chris.png
+  img: /img/speakers/chris.blob.png
   bio: >-
     Chris Adams is an environmentally focussed tech generalist, spending the last ten years working in tech startups, large companies and government, as a user researcher, product manager, developer, sysadmin and UX-er. Based in Berlin, he currently builds open source tools, and publishes open datasets with the Green Web Foundation, to help others understand and reduce the environmental impact of digital products they build.
   abstract: >-
@@ -123,7 +123,7 @@
   url: https://ramonhuidobro.com
   twitter: senorhuidobro
   github: ramonh
-  img: /img/speakers/ramon.png
+  img: /img/speakers/ramon.blob.png
   bio: >-
     Ramón Huidobro is a chilean kids’ coding instructor and freelance software dev. He likes to introduce people to coding more than he enjoys coding itself. If you want pointless Nintendo trivia, look no further than Ramón! You’ll probably find him at a lot of conferences and has been told he has a distinctive laugh, so he’s easy to spot, especially when wearing a onesie.
   abstract: >-
