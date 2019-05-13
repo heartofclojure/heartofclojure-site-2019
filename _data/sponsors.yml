@@ -58,3 +58,15 @@
   tier: brick
   img: /img/sponsors/adgoji.png
   url: https://www.adgoji.com/
+- name: Mozilla
+  tier: timber
+  img: /img/sponsors/mozilla.png
+  url: https://mozilla.org/
+- name: Flexiana
+  tier: brick
+  img: /img/sponsors/flexiana.png
+  url: https://flexiana.com/
+- name: Kenneth Kalmer
+  tier: timber
+  img: /img/sponsors/kenneth.jpg
+  url: https://twitter.com/kennethkalmer
