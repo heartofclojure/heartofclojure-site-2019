@@ -36,13 +36,17 @@ permalink: /program
                 </div>
                 <div class="fl-m fl-l w-two-thirds-m w-two-thirds-l pa3">
                     <div class="bg-g{% cycle 1, 2, 3, 4 %}">
-                        <h2 class="mv0 blend-screen bg-white">
+                        <h2 class="mv0 blend-screen bg-white pr5-ns">
+                            {% if speaker.keynote %}
+                            <span class="ph2 pv1 br2 nunito ttu f6 fw9 white bg-black">keynote</span>
+                            <br>
+                            {% endif %}
                             {{speaker.title}}
                             <a href="#{{speaker.id}}"><img src="https://icon.now.sh/link/24"></a>
                         </h2>
                     </div>
                     <p>{{speaker.abstract}}</p>
-                    <p class="f5"><b class="pink-t60">About {{speaker.name | split:' ' | first}}:</b> {{speaker.bio }}</p>
+                    <p class="f5"><b class="pink-t60">About {{speaker.name | split:' ' | first}}:</b> {{speaker.bio}}</p>
                 </div>
             </div>
             {% endfor %}

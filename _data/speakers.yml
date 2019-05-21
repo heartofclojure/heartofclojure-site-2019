@@ -165,11 +165,27 @@
   public: false
 
 - name: Rachel Lawson
-  id: rachel-lawson
-  title: TBD
-  bio:
-  abstract:
-  img: /img/speakers/rachel.blob.png
-  url: https://www.drupal.org/u/rachel_norfolk
+  public: true
+  id: rachel-Lawson
   twitter: rachel_norfolk
-  public: false
+  url: https://www.drupal.org/u/rachel_norfolk
+  img: /img/speakers/rachel.blob.png
+  title: My opensource project; It’s all about the code. Oh, wait, no it’s not...
+  keynote: true
+  abstract: >-
+    When Rachel started using Drupal, she thought she knew what opensource was all about; the code. Through the last twelve years as a member of the community, a contributor, a mentor and eventually Community Liaison for the Drupal Association, she has learned that, actually, great code is only a tiny part of what makes a great project.
+    <br><br>
+    Fundamentally, all open source projects are about people; those that create the code, those that help other to understand and use it, those that encourage its use and those that keep all these people working effectively together.
+    <br><br>
+    She will take a whole series of assumptions that she has herself made or observed others expressing during that time and look at what lessons she has learned that made her realise things are quite different.
+    <br><br>
+    Learning from these lessons has shaped how she approaches her work and she hopes those lessons are useful to others (and maybe she will learn a few more lessons, too!)
+
+  bio: >-
+    Rachel Lawson is the Community Liaison at the <a class="link pink-t60" href="https://www.drupal.org/association">Drupal Association</a>, providing a contact between Drupal community members worldwide and the Drupal Association which is the non-profit at the heart of supporting the project with technical, fundraising, community and product marketing resources and leadership.
+    <br><br>
+    Rachel has been fortunate to take a wonderfully varied route to this position; starting her career not in tech at all but teaching fencing. Taking the jump into tech via a teaching post, she has worked in the defence, finance and pharmaceutical sectors before finally discovering Drupal and becoming a full-time web developer.
+    <br><br>
+    Realising that the best way to improve her career in opensource is always to “get involved”, she became a contributor to the Drupal project and found herself moving naturally into mentoring others to contribute.
+    <br><br>
+    In 2017, Rachel joined the Drupal project’s Community Working Group, helping community members to resolve differences and abide by the Code of Conduct. This led eventually to her taking the new role of Community Liaison at the Drupal Assiciation. 
