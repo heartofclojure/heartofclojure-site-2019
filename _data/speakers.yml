@@ -155,14 +155,18 @@
 
 - name: Yulia Startsev
   id: yulia-startsev
-  title: TBD
-  bio:
-  abstract:
+  title: To loosen up, to put together.
+  bio: A former professional painter, Yulia Startsev now works for Mozilla on the Firefox DevTools, and is part of the TC39 committee which standardizes ECMAScript (JavaScript). She is currently based in Berlin, where she enjoys fine teas, video games, and working on the future of the free and open web.
+  abstract: >-
+    Have you ever tried to simply look at something? To take in the colors and shapes, and nothing more? It's not as easy as it sounds. We tend to instantly interpret what we're seeing, to apply labels, categories, identifiers; a level of symbolic interpretation. This helps us to make sense of the world, but it can prevent us from seeing what's really there. Similarly, in a programming setting, we might find ourselves searching fruitlessly for a bug, only to realize it was in front of us all along.
+    <br><br>
+    Our mental state predisposes us to behave in certain ways. But what if that mental state was just a tool, much like a paint brush? To explore uncharted territory or discover the unexpected we need different modes of thinking. This talk will explore these different modes of thinking, how they apply to arts, engineering, and how to practice seeing things differently.
   img: /img/speakers/yulia.blob.png
   url: https://hag.codes
   twitter: ioctaptceb
   github: codehag
-  public: false
+  keynote: true
+  public: true
 
 - name: Rachel Lawson
   public: true
@@ -188,4 +192,4 @@
     <br><br>
     Realising that the best way to improve her career in opensource is always to “get involved”, she became a contributor to the Drupal project and found herself moving naturally into mentoring others to contribute.
     <br><br>
-    In 2017, Rachel joined the Drupal project’s Community Working Group, helping community members to resolve differences and abide by the Code of Conduct. This led eventually to her taking the new role of Community Liaison at the Drupal Assiciation. 
+    In 2017, Rachel joined the Drupal project’s Community Working Group, helping community members to resolve differences and abide by the Code of Conduct. This led eventually to her taking the new role of Community Liaison at the Drupal Assiciation.
