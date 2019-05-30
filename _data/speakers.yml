@@ -74,7 +74,7 @@
   github: lilymgoh
   img: /img/speakers/lily.blob.png
   bio: >-
-    Lily is a passionate frontend developer and a fan functional programming. She is a partner at a small software consultancy, (paren). Nothing pains her more than seeing buggy UI & bad UX.
+    Lily is a passionate frontend developer and a fan of functional programming. She is a partner at a small software consultancy, (paren). Nothing pains her more than seeing buggy UI & bad UX.
   abstract: >-
     You are not your code. Repeat after me. "I am not my code!"
     <br><br>
@@ -193,3 +193,15 @@
     Realising that the best way to improve her career in opensource is always to “get involved”, she became a contributor to the Drupal project and found herself moving naturally into mentoring others to contribute.
     <br><br>
     In 2017, Rachel joined the Drupal project’s Community Working Group, helping community members to resolve differences and abide by the Code of Conduct. This led eventually to her taking the new role of Community Liaison at the Drupal Assiciation.
+
+- name: Jivago Alves
+  public: false
+  id: jivago-alves
+  twitter: Jivagoalves
+  github: https://github.com/jivagoalves
+  img: /img/speakers/jivago.blob.png
+  title: "'(Growing Function-Oriented Software (With Parentheses))"
+  abstract: >-
+    Have you ever asked yourself how did you end up with a big ball of mud? It doesn't have to be like that. What's preventing us from using rapid prototyping techniques aligned with a MVP mindset during your daily coding? I want to show, based on hands-on experience, how we can build apps that are simple, maintainable and enjoyable to work on. We'll cover a few concepts ranging from DDD, hexagonal architecture, accidental vs essential complexity to the MVP mindset. By building a practical example in Clojure, we will understand concepts, once abstract, turn into reality for your next project.
+  bio: >-
+    Jivago is a developer at Equal Experts interested in learning all sort of trades in order to deliver great products. For the past 5 years he's been using Clojure (and other languages) in order to grow products from scratch and revamp legacy systems. He's been using Clojure on projects ranging from web apps, instant payment platforms to data analysis. However, he truly believes nothing compares with the joy in the REPL. When he's not programming, you'll find him playing soccer or drinking beer.
