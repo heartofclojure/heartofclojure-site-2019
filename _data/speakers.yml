@@ -195,7 +195,7 @@
     In 2017, Rachel joined the Drupal project’s Community Working Group, helping community members to resolve differences and abide by the Code of Conduct. This led eventually to her taking the new role of Community Liaison at the Drupal Assiciation.
 
 - name: Jivago Alves
-  public: false
+  public: true
   id: jivago-alves
   twitter: Jivagoalves
   github: https://github.com/jivagoalves
