@@ -30,7 +30,7 @@ trip to Heart of Clojure.
 
 The main way to reach the venue is through Leuven train station, which is at
 walking distance, and is a 15 minute train ride from Brussels airport. These
-instructions walk you through how to get from the station to the venuw
+instructions walk you through how to get from the station to the venue
 barrier-free.
 
 When you arrive at Leuven station, take the elevator from the platform up to the
