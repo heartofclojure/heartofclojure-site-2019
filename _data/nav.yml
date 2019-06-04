@@ -14,3 +14,5 @@
 #   path: /code-of-conduct
 - title: Accessibility
   path: /accessibility
+- title: Activities
+  path: https://activities.heartofclojure.eu
