@@ -40,6 +40,19 @@ permalink: /
         </li>
         {% endfor %}
     </ul>
+    <h2 class="tc" id="support">Our sketchnoters:</h2>
+    <ul class="list pl0 relative pb4 tc mw6 ph3 center people">
+      {% for sketchnoters in site.data.sketchnoters %}
+      <li class="hide-child dib pa3">
+        <a href="{{ sketchnoters.url }}" target="_blank" rel="noopener">
+          <img class="w4 br-100 dib" src="{{ sketchnoters.image }}">
+          <div class="w-100 absolute child bottom-0 left-0 tc">
+            <span class="pink f5">{{ sketchnoters.name }}</span>
+          </div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
   </section>
 </div>
 <div class="pa5-ns pv5 ph3 bg-light-grey">
