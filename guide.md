@@ -1,8 +1,9 @@
 ---
-layout: front_page
+layout: default
 title:  "Conference Guide - Heart of Clojure"
 permalink: /guide
 is_markdown: true
+redirect_from: /program
 ---
 
 * [Activities App](https://activities.heartofclojure.eu/)

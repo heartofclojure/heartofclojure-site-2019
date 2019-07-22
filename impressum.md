@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Heart of Clojure - Legal Notice"
+title:  "Legal Notice - Heart of Clojure"
 permalink: /impressum
 is_markdown: true
 ---

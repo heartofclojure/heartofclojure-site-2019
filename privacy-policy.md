@@ -1,5 +1,6 @@
 ---
 layout: default
+Title: "Privacy Policy - Heart of Clojure"
 permalink: /privacy-policy
 is_markdown: true
 ---

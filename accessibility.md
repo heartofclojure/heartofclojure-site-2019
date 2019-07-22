@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Heart of Clojure - Accessibility"
+title:  "Accessibility - Heart of Clojure"
 permalink: /accessibility
 is_markdown: true
 ---
