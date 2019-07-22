@@ -2,6 +2,7 @@
 layout: front_page
 title:  "Conference Guide - Heart of Clojure"
 permalink: /guide
+is_markdown: true
 ---
 
 * [Activities App](https://activities.heartofclojure.eu/)
