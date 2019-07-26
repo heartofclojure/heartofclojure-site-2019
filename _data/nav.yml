@@ -4,6 +4,8 @@
   path: /location
 - title: Speakers
   path: /speakers
+- title: Guide
+  path: /guide
 # - title: Call for Speakers
 #   path: /call-for-speakers
 # - title: Be a Sponsor
