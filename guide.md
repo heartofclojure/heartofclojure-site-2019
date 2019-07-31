@@ -7,13 +7,13 @@ redirect_from: /program
 ---
 
 <div class="tc pa4">
-<a class="dib pv2 ph3 br2 bg-translucent-pink-05 hover-bg-pink-t60 bg-animate white b pointer link" href="https://activities.heartofclojure.eu/">Activities App</a>
-<a class="dib pv2 ph3 br2 bg-translucent-pink-05 hover-bg-pink-t60 bg-animate white b pointer link" href="venue_layout.pdf">Venue map</a>
-<a class="dib pv2 ph3 br2 bg-translucent-pink-05 hover-bg-pink-t60 bg-animate white b pointer link" href="https://github.com/heartofclojure/heartofclojure/wiki/Attendee-Guide">Attendee Guide</a>
+<a class="mb2 dib pv2 ph3 br2 bg-translucent-pink-05 hover-bg-pink-t60 bg-animate white b pointer link" href="https://activities.heartofclojure.eu/">Activities App</a>
+<a class="mb2 dib pv2 ph3 br2 bg-translucent-pink-05 hover-bg-pink-t60 bg-animate white b pointer link" href="venue_layout.pdf">Venue map</a>
+<a class="mb2 dib pv2 ph3 br2 bg-translucent-pink-05 hover-bg-pink-t60 bg-animate white b pointer link" href="https://github.com/heartofclojure/heartofclojure/wiki/Attendee-Guide">Attendee Guide</a>
 </div>
 
-<div class="mw7 pa3 center lh-copy f4">
-<div id="hoc-schedule mb6">
+<div class="mw7 pa3 center lh-copy f4 mb6">
+<div id="hoc-schedule">
 </div>
 </div>
 
