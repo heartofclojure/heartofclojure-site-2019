@@ -13,9 +13,10 @@ redirect_from: /program
 </div>
 
 <div class="mw7 pa3 center lh-copy f4 mb6">
-<a href="/adventurous-dinner">
+<a class="db tc f3 link no-underline blue b" href="/adventurous-dinner">
 Group lists for the Adventurous Dinner
 </a>
+</div>
 
 <div class="mw7 pa3 center lh-copy f4 mb6">
 <div id="hoc-schedule">
@@ -23,9 +24,10 @@ Group lists for the Adventurous Dinner
 </div>
 
 <div class="mw7 pa3 center lh-copy f4 mb6">
-<a href="/adventurous-dinner">
+<a class="db tc f3 link no-underline blue b" href="/adventurous-dinner">
 Group lists for the Adventurous Dinner
 </a>
+</div>
 
 <div class="mw7 center f3 lh-copy ph3 mb6 tc">
 <p>
