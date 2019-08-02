@@ -1,6 +1,7 @@
 ---
 title: Adventurous Dinner List
 layout: markdown
+permalink: /adventurous-dinner
 ---
 
 ## Group A

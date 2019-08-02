@@ -13,6 +13,11 @@ redirect_from: /program
 </div>
 
 <div class="mw7 pa3 center lh-copy f4 mb6">
+<a href="/adventurous-dinner">
+Group lists for the Adventurous Dinner
+</a>
+
+<div class="mw7 pa3 center lh-copy f4 mb6">
 <div id="hoc-schedule">
 </div>
 </div>
