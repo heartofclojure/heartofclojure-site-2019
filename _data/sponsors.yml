@@ -70,7 +70,7 @@
   tier: timber
   img: /img/sponsors/equal-experts.png
   url: https://www.equalexperts.com
-# - name: Imilingo
-#   tier: timber
-#   img: /img/sponsors/imilingo.jpg
-#   url:
+- name: Imilingo
+  tier: timber
+  img: /img/sponsors/imilingo.png
+  url: https://imilingo.uk
