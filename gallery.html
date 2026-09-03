@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Gallery | Heart of Clojure 2024"
+permalink: /gallery
+---
+<main>
+<h1>Gallery</h1>
+{% for section in site.data.gallery %}
+  <h2>{{section.title}}</h2>
+  <div class="gallery">
+    {% for img in section.images %}
+    <a href="{{section.directory}}/{{img}}"><img src="{{section.directory}}_thumbnails/{{img}}" /></a>
+    {% endfor %}
+  </div>
+{% endfor %}
+</main>
+<script src="/js/simple-lightbox.min.js"></script>
+<script>
+var lightbox = new SimpleLightbox('.gallery a', {animationSpeed: 50});
+</script>

@@ -4,17 +4,19 @@
   path: /location
 - title: Speakers
   path: /speakers
-- title: Guide
-  path: /guide
+- title: Photos
+  path: /gallery
+# - title: Guide
+#   path: /guide
 # - title: Call for Speakers
 #   path: /call-for-speakers
 # - title: Be a Sponsor
 #   path: /sponsor-faq
 # - title: Tickets
 #   path: /tickets
-# - title: Code of Conduct
-#   path: /code-of-conduct
+- title: Code of Conduct
+  path: /code-of-conduct
 - title: Accessibility
   path: /accessibility
-- title: Activities
-  path: https://activities.heartofclojure.eu
+# - title: Activities
+#   path: https://activities.heartofclojure.eu
